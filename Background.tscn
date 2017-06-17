@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=1]
+
+[ext_resource path="res://art/dsdsd.png" type="Texture" id=1]
+
+[node name="Background" type="Sprite"]
+
+transform/pos = Vector2( 100, 100 )
+texture = ExtResource( 1 )
+region_rect = Rect2( 0, 0, 200, 200 )
+
+
